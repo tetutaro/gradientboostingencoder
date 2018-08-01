@@ -8,6 +8,10 @@ GradientBoostingRegressorにもGradientBoostingClassifierにも対応してい�
 
 Facebookの論文のうち、Encoder部分だけ実装したので、逆にRegressor/Classifierには好きなものを使える
 
+## インストール方法
+
+`> pip install git+https://github.com/tetutaro/gradientboostingencoder`
+
 ## 使い方の例
 
 あくまで例なので、モデルの作り方は適当
